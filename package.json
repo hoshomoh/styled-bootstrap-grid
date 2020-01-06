@@ -1,6 +1,6 @@
 {
-  "name": "styled-bootstrap-grid",
-  "version": "3.0.5",
+  "name": "@hoshomoh/styled-bootstrap-grid",
+  "version": "3.0.6",
   "description": "bootstrap grid system using styled components",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dragma/styled-bootstrap-grid.git"
+    "url": "git+https://github.com/hoshomoh/styled-bootstrap-grid.git"
   },
   "keywords": [
     "styled-components",
@@ -34,9 +34,9 @@
   "author": "Florent Béjina",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dragma/styled-bootstrap-grid/issues"
+    "url": "https://github.com/hoshomoh/styled-bootstrap-grid/issues"
   },
-  "homepage": "https://github.com/dragma/styled-bootstrap-grid#readme",
+  "homepage": "https://github.com/hoshomoh/styled-bootstrap-grid#readme",
   "peerDependencies": {
     "react": "^0.14.0 || ^16.0.0-0",
     "styled-components": ">=4"
